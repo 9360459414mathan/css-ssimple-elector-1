@@ -1,0 +1,52 @@
+.don1 p{
+	background-color:green;
+	color:white;
+		padding:0 0 0 150px;
+}
+.don2 {
+	color:yellow;
+		padding:0 0 0 150px;
+}
+.don4{
+	background-color:black;
+	color:white;
+		padding:0 0 0 150px;
+}
+
+.don5{
+		padding:0 0 0 150px;
+		color:blue;
+}
+.good{
+	text-align:right;
+	
+	
+	padding:0px 0px 30px 0px;
+}	
+.very{
+	
+	
+	text-align:right;
+}	
+
+.john p{
+	color:blue;
+	
+}
+h1{
+	color:red;
+}
+
+#gi{
+	
+	background-color;green;
+}
+
+*{
+	text-align:center;
+}
+
+.dad{
+	background-color:red;
+	color:white;
+}
